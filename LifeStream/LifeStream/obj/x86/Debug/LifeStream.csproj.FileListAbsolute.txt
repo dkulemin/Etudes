@@ -1,0 +1,11 @@
+D:\visual studio 2010\Projects\LifeStream\LifeStream\bin\Debug\LifeStream.exe
+D:\visual studio 2010\Projects\LifeStream\LifeStream\bin\Debug\LifeStream.pdb
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\MainWindow.baml
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\MainWindow.g.cs
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\App.g.cs
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\LifeStream_MarkupCompile.cache
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\LifeStream.g.resources
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\LifeStream.Properties.Resources.resources
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\LifeStream.csproj.GenerateResource.Cache
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\LifeStream.exe
+D:\visual studio 2010\Projects\LifeStream\LifeStream\obj\x86\Debug\LifeStream.pdb
